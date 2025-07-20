@@ -17,6 +17,6 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://10kseok.github.io/)](https://10kseok.github.io/)
 
 <p align="center">
-  <a href='http://www.freevisitorcounters.com'>Get Visitor Counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=e2fdbfbfdf8b1256beaec7abe802ee39e2897ad7'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1367629/t/5"></script>
+  <a href="https://www.freecounterstat.com" title="website counter"><img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=sch26gh3phjq3byr3sdtw5y44phz3c42" border="0" title="website counter" alt="website counter"></a>
+
 </p>
