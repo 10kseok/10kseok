@@ -17,7 +17,6 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://10kseok.github.io/)](https://10kseok.github.io/)
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F10kseok%2F&count_bg=%237194A8&title_bg=%237C7C7C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
-  </a>
+  <a href='http://www.freevisitorcounters.com'>Get Visitor Counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=e2fdbfbfdf8b1256beaec7abe802ee39e2897ad7'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1367629/t/5"></script>
 </p>
