@@ -15,8 +15,3 @@
 
 ## 🔍 Discover More
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://10kseok.github.io/)](https://10kseok.github.io/)
-
-<p align="center">
-  <a href="https://www.freecounterstat.com" title="website counter"><img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=sch26gh3phjq3byr3sdtw5y44phz3c42" border="0" title="website counter" alt="website counter"></a>
-
-</p>
